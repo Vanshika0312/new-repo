@@ -31,8 +31,6 @@ def download_video():
     except Exception as e:
         status_label.configure(text=f" Error: {e}", text_color="red")
 
-#---------------------------------UI Elements ka code------------------
-
 title_label = ctk.CTkLabel(app, text="🎬 YouTube Video Downloader", font=("Arial", 20, "bold"))
 title_label.pack(pady=20)
 
