@@ -11,6 +11,6 @@ Real-time summary and budget overview
 Clean and responsive user interface
 
 Technologies Used:
-HTML, CSS (for web version)
+HTML, CSS (for web version) & javascript
 
 Just open the "index.html" file in your browser or visit the [Live Site]https://github.com/Vanshika0312/new-repo/blob/main/index.html
